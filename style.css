@@ -1,5 +1,67 @@
 body {
 	background-color: #F17E8C;
-	font-family: 'Cormorant Infant', serif;
-	font-family: 'Gabriela', serif;
+font-family: 'Prompt', sans-serif;}
+
+.name {
+	font-family: 'Gideon Roman', cursive;
+	font-weight: bold;
+	font-style: oblique;
+	text-align: center;
+	padding: 10px;
+}
+
+.frontImage {
+	width: 400px;
+  	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+}
+
+.description {
+	font-weight: bold;
+	font-style: oblique;
+	text-align: center;
+	padding: 10px;
+}
+
+.info {
+	font-weight: normal;
+	font-style: oblique;
+	text-align: center;
+	padding: 10px;
+}
+
+.address {
+	font-weight: bold;
+}
+
+.contactUs {
+	font-weight: normal;
+	font-style: oblique;
+	text-align: center;
+	padding: 10px;
+}
+
+.phoneId .emailId {
+	font-weight: bold;
+}
+
+.hours {
+	font-weight: normal;
+	font-style: oblique;
+	text-align: center;
+	padding: 10px;
+}
+
+.hoursTitle {
+	font-weight: bold;
+}
+
+.menuName {
+	text-align: center
+}
+
+.dessert, .mainCourse, .starters
+{
+	text-align: center
 }
